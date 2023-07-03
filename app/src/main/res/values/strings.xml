@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedProject</string>
+    <string name="shared_information_app">Shared Information App</string>
+    <string name="enter_your_username">Enter your UserName</string>
+    <string name="last_username">Last UserName</string>
+    <string name="save">Save</string>
+</resources>
